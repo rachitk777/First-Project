@@ -1,0 +1,21 @@
+header{
+/* to make navbar side of header DEV101 */
+    display: flex;   
+    /* justify */
+    justify-content: space-between;
+margin:50px;
+font-size:small
+}
+ul{
+
+display: flex;
+width: 200px;
+justify-content: space-between;
+list-style-type:decimal;
+}
+
+nav{
+/* view code */
+width: 40vw;
+
+}
